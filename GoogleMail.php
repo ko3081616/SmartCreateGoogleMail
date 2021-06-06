@@ -1,4 +1,10 @@
 <?php
+
+$_POST['to_email'];
+$_POST['subject'];
+$_POST['body'];
+$_POST['headers'];
+
 $to_email = "ko3081616@gmail.com";
 $subject = "智創生活科技";
 
